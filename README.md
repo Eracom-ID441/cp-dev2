@@ -12,7 +12,7 @@ Par le passé, lors de cet exercice, chaque élève avait un modèle différent 
 
 Notamment, nous tenons à produire une adaptation qui soit parfaitement *Responsive*, et qui tienne compte de la *performance* et de l'*accessibilité* (A11Y).
 
-La réalisation du projet Mockup2Code sera le fil rouge qui nous accompagnera durant le cours. Une évaluation du travail sera effectuée à la fin du cours, le 9 juin.
+La réalisation du projet Mockup2Code sera le fil rouge qui nous accompagnera durant le cours. Une évaluation du travail sera effectuée à la fin du cours, **le 9 juin**.
 
 ### Utilisation de GIT
 
