@@ -18,10 +18,16 @@ La réalisation du projet Mockup2Code sera le fil rouge qui nous accompagnera du
 
 Vous apprendrez à utiliser le logiciel GIT, qui servira au développement durant tout le semestre. Une évaluation sur la maîtrise de GIT sera effectuée. Date: 24 février.
 
+Voir: 📒 [Support de cours GIT](https://cours-web.ch/git/)
+
 ### Evaluation CSS
 
 Une évaluation théorique (format: QCM) sera effectuée autour de vos connaissances en CSS. Les thèmes sont: syntaxe des règles CSS, usage des sélecteurs, couleurs, unités. Mise en page avec Flexbox et Grid. Media Queries et responsive. Animations. Règles de spécificité. Date: 28 avril.
 
+Voir: 📒 [Support de cours CSS](https://cours-web.ch/css/)
+
 ### Qualité Web
 
 Un segment du cours est dédié aux méthodes d'accessibilité (A11Y), de performance frontend et de SEO. Ces connaissances sont évaluées au moyen d'un exercice pratique (entre 12 et 26 mai).
+
+Voir: 📒 [Support de cours CSS](https://cours-web.ch/a11y/)
