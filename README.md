@@ -30,4 +30,4 @@ Voir: 📒 [Support de cours CSS](https://cours-web.ch/css/)
 
 Un segment du cours est dédié aux méthodes d'accessibilité (A11Y), de performance frontend et de SEO. Ces connaissances sont évaluées au moyen d'un exercice pratique (entre 12 et 26 mai).
 
-Voir: 📒 [Support de cours CSS](https://cours-web.ch/a11y/)
+Voir: 📒 [Support de cours A11Y](https://cours-web.ch/a11y/)
